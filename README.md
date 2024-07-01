@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=03fcec&descAlign=25&reversal=false&textBg=false)"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=03fcec&descAlign=25&reversal=false&textBg=false"/>
 <!--
 https://www.youtube.com/watch?v=rTtE2oL1KEY
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
