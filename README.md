@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[<img align="right" alt="🦑" src="https://i.imgur.com/wzpC4ne.png">](#)
+[<img align="center" alt="🦑" src="https://i.imgur.com/wzpC4ne.png">](#)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=03fcec&descAlign=25&reversal=false&textBg=false&section=footer"/>
 <!--
