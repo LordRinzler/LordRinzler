@@ -13,7 +13,9 @@
 ![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 
 
-<img src="https://i.imgur.com/wzpC4ne.png" width="75%" style="display: block; margin: 0 auto;">
+<div align="center">
+  <img width="75%" alt="" src="https://i.imgur.com/wzpC4ne.png">
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=03fcec&descAlign=25&reversal=false&textBg=false&section=footer"/>
 <!--
