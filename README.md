@@ -8,12 +8,14 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 
-[<img align="center" alt="🦑" src="https://i.imgur.com/wzpC4ne.png">](#)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=03fcec&descAlign=25&reversal=false&textBg=false&section=footer"/>
+[<img align="center" alt="" src="https://i.imgur.com/wzpC4ne.png">](#)
+
+<img width=50% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=03fcec&descAlign=25&reversal=false&textBg=false&section=footer"/>
 <!--
 https://www.youtube.com/watch?v=rTtE2oL1KEY
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
