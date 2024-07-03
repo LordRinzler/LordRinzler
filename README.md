@@ -13,9 +13,9 @@
 ![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 
 
-[<img align="center" alt="" src="https://i.imgur.com/wzpC4ne.png">](#)
+[<img width=75% align="center" alt="" src="https://i.imgur.com/wzpC4ne.png">](#)
 
-<img width=50% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=03fcec&descAlign=25&reversal=false&textBg=false&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=03fcec&descAlign=25&reversal=false&textBg=false&section=footer"/>
 <!--
 https://www.youtube.com/watch?v=rTtE2oL1KEY
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
