@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=LordRinzler&theme=neon&locale=pt_BR&mode=weekly&exclude_days=Sun%2CSat">
-    <img src="https://streak-stats.demolab.com?user=LordRinzler&theme=neon&locale=pt_BR&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+    <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=LordRinzler&theme=neon&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)" />
   </a>
 </p>
 
