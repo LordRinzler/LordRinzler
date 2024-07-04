@@ -26,8 +26,7 @@
 ![TypeScrypt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ##
 
-# Github Statistics🏆👺
-
+## Github Statistics🏆👺
 | ![Github Top Langs](https://streak-stats.demolab.com?user=LordRinzler&theme=neon&locale=pt_BR&exclude_days=Sun%2CSat) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordRinzler&theme=neon&show_icons=true) |
 | ----------- | ----------- |
 
