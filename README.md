@@ -26,7 +26,7 @@
 ![TypeScrypt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ##
 
-#Github Statistics🏆👺
+# Github Statistics🏆👺
 
 |<p align="center">
   <a href="https://streak-stats.demolab.com?user=LordRinzler&theme=neon&locale=pt_BR&exclude_days=Sun%2CSat">
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-|[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+|[![trophy](https://github-profile-trophy.vercel.app/?LordRinzler=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ##
