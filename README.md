@@ -28,13 +28,13 @@
 
 # Github Statistics🏆👺
 
-|<p align="center">
+<p align="center">
   <a href="https://streak-stats.demolab.com?user=LordRinzler&theme=neon&locale=pt_BR&exclude_days=Sun%2CSat">
     <img src="https://streak-stats.demolab.com?user=LordRinzler&theme=neon&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak" />
   </a>
 </p>
 
-|[![trophy](https://github-profile-trophy.vercel.app/?LordRinzler=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LordRinzler=anuraghazra&theme=neon&show_icons=true)
 
 
 ##
