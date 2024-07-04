@@ -23,8 +23,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![TypeScrypt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
-![Rinzler GitHub stats](https://github-readme-stats.vercel.app/api?username=LordRinzler&show_icons=true&theme=gradient)
-
 <div align="center">
   <img width="75%" alt="" src="https://i.imgur.com/wzpC4ne.png">
 </div>
