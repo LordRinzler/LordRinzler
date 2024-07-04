@@ -26,7 +26,9 @@
 ![TypeScrypt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ##
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LordRinzler&theme=neon&locale=pt_BR)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=LordRinzler&theme=neon&locale=pt_BR&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+</div>
 
 ##
 <div align="center">
