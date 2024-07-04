@@ -30,7 +30,6 @@
 | ![Github Top Langs](https://streak-stats.demolab.com?user=LordRinzler&theme=neon&locale=pt_BR&exclude_days=Sun%2CSat) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordRinzler&theme=neon&show_icons=true) |
 |----------- | ----------- |
 
-##
 <div align="center">
   <img width="75%" alt="" src="https://i.imgur.com/wzpC4ne.png">
 </div>
