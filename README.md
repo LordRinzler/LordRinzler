@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=1500&pause=4000&color=FFFFFF&random=false&width=1050&height=60&lines=Hey!+my+name+is+Rodrigo%2C+but+you+can+also+call+me+Rinzler!%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=2000&pause=6000&color=FFFFFF&random=false&width=1050&height=60&lines=Hey!+my+name+is+Rodrigo%2C+but+you+can+also+call+me+Rinzler!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### I have already studied:
 
@@ -31,6 +31,9 @@
     <img src="https://streak-stats.demolab.com?user=LordRinzler&theme=neon&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak" />
   </a>
 </p>
+| ----------- |
+[![trophy](https://github-profile-trophy.vercel.app/?LordRinzler=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ##
 <div align="center">
