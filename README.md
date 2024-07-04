@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! my name is Rodrigo, but you can also call me Rinzler!👋
 
 ### I have already studied:
 
