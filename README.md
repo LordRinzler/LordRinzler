@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=1500&pause=4000&color=FFFFFF&random=false&width=1000&height=60&lines=Hey!+my+name+is+Rodrigo%2C+but+you+can+also+call+me+Rinzler!%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=1500&pause=4000&color=FFFFFF&random=false&width=1050&height=60&lines=Hey!+my+name+is+Rodrigo%2C+but+you+can+also+call+me+Rinzler!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### I have already studied:
 
