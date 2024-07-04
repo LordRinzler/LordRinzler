@@ -33,8 +33,10 @@
     <img src="https://streak-stats.demolab.com?user=LordRinzler&theme=neon&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak" />
   </a>
 </p>
+
 | ----------- |
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?LordRinzler=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ##
